@@ -1,6 +1,5 @@
-# Responsive Login, and Sign up page - Flutter UI 
-# MadosHoster by MuhammadRizkyAbdillah
-# Tugas Ulangan Tengah Semester Angkatan 2020
+
+# Flutter UI Tugas Ulangan Tengah Semester Angkatan 2020
 
 <table border="2" cellpading="10">
   <tr>
@@ -22,6 +21,10 @@
   <tr>
     <td><b>Dosen Pengampu</b></td>
     <td>M Najamuddin Dwi M, M.Kom
+</td>
+  </tr>
+     <td><b>Jenis UI</b></td>
+    <td>Loggin/Sign MadosHoster
 </td>
 </table>
 
