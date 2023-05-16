@@ -29,5 +29,5 @@
 </table>
 
 
-![Preview UI](/preview.gif)
-![App UI](/UI.png)
+
+![App UI](/UI-picsay.png)
