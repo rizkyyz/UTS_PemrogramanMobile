@@ -28,6 +28,7 @@
 </td>
 </table>
 
-
+**UI Flutter MadosHoster
+*By Muhammad Rizky Abdillah
 
 ![App UI](/UI-picsay.png)
